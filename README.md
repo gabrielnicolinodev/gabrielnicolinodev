@@ -2,7 +2,7 @@
 
 **`Iniciando na programação`**
 
-Meu nome é Gabriel Nicolino, tenho 17 anos. Concluí o ensino médio em 2025. Atualmente, realizando Análise e Desenvolvimento de Sitemas na Cruzeiro do Sul. 
+Meu nome é Gabriel Nicolino, tenho 17 anos. Concluí o ensino médio em 2025. Atualmente, cursando Análise e Desenvolvimento de Sitemas na Cruzeiro do Sul. 
 
 <div align="left">
   <a href="https://www.instagram.com/grsouza_x?utm_source=qr&igsh=bXcwcmt1anJ5cXBw" target="_blank">
